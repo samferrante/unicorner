@@ -1,0 +1,158 @@
+body{
+
+margin: 0px;
+
+color: #000000;
+
+background: ##E8ECF0;
+font-family: Raleway;
+
+}
+
+div{
+
+padding: 10px;
+
+
+}
+
+h1 {
+
+font-family: courier;
+
+color: #FFFFFF;
+font-family: Indie Flower;
+font-size: 80px;
+
+
+}
+
+h4{
+
+font-family: courier;
+
+color: #E95F47;
+font-family: Indie Flower;
+font-size: 20px
+
+}
+
+h5{
+
+font-family: courier;
+
+color: #FFFFFF;
+font-family: Indie Flower;
+font-size: 20px
+
+}
+
+p {
+
+font-size: 30px;
+
+line-height: 10px;
+
+
+}
+
+a{
+
+color: #FFFFFF;
+text-decoration: none;
+
+}
+
+a:hover{
+	color: #E95F47;
+	transition: 0.3s ease;
+}
+
+.white-hover:hover{
+	background-color: #FFFFFF;
+	color: #E95F47;
+}
+
+img{
+
+	width: 50px;
+}
+
+.licornes{
+
+	width: 50px;
+}
+
+
+.contenu-bandeau{
+
+background-color: rgba(0, 0, 0, 0.2);
+
+}
+
+
+#bandeau{
+background-image: url('images/strawberry-cake.jpg');
+background-size: cover;
+padding: 0;
+
+}
+
+#bandeau p{
+
+color: #FFFFFF;
+
+
+
+}
+
+#footer{
+
+background-color: #E95F47;
+
+}
+
+#footer p{
+
+	color: #FFFFFF
+}
+
+.les-restaurants{
+
+	background-color: #FFFFFF
+}
+
+.les-licornes{
+
+	background-color: #E95F47;
+}
+
+.les-licornes h2{
+	color: #3F4B56;
+
+}
+
+.les-licornes h3{
+
+	font-size: 20px;
+}
+
+.licorne{
+
+color: #3F4B56;
+
+
+}
+
+
+
+.licorne p{
+
+	font-size: 12px;
+}
+
+
+
+
+
+
